@@ -1,0 +1,8 @@
+From_Layer,Physical,Sensor,Data,Middleware,Decision,Application,Social_Interface
+Physical,0.0,0.3,0.4,0.5,0.6,0.4,0.0
+Sensor,0.4,0.0,0.3,0.2,0.4,0.5,0.6
+Data,0.5,0.4,0.0,0.25,0.3,0.5,0.0
+Middleware,0.3,0.2,0.25,0.0,0.4,0.3,0.5
+Decision,0.5,0.5,0.4,0.5,0.0,0.3,0.25
+Application,0.4,0.6,0.5,0.3,0.4,0.0,0.3
+Social_Interface,0.0,0.6,0.0,0.5,0.5,0.4,0.0

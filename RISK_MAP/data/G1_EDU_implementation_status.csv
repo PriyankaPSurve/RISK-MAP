@@ -1,0 +1,36 @@
+Defence,Implementation
+P-D1 Secure-Boot Root,0.75
+P-D2 Redundant Encoders,0.25
+P-D3 Rail Cut-outs,0.5
+P-D4 Tamper Evidence,0.25
+P-D5 Leak-Resilient Mech.,0
+SP-D1 Cross-Modal Coherence,0
+SP-D2 Coded Illum./PulseID,0
+SP-D3 Acoustic/EMI Hardening,0.25
+SP-D4 Adv.-Trained Detectors,0.25
+SP-D5 Enc./Data-Hygiene,0.25
+DP-D1 Deadline Guards,0.25
+DP-D2 Memory-Safe Stack,0.25
+DP-D3 Race-Proof Queues,0
+DP-D4 Param Attest./Sanity,0.25
+MW-D1 DDS-Security,0.25
+MW-D2 ROS-Defender/RIPS,0
+MW-D3 Info-Flow Labels,0
+MW-D4 QoS & Freshness,0.5
+DM-D1 Redundant Ctrl.,0.25
+DM-D2 Adv.-Aware Plan,0
+DM-D3 Adv. Training,0
+DM-D4 Poison-Resil. Learn,0
+DM-D5 Backdoor Detect,0
+DM-D6 Secure Updates,0
+DM-D7 Drift Monitors,0
+AP-D1 Signed Scripts,0
+AP-D2 API Gateways,0
+AP-D3 Secure OTA/CI,0.5
+AP-D4 Twin Hardening,0
+AP-D5 Param Guards,0.25
+SI-D1 Signal Filters,0.25
+SI-D2 Robust ASR,0.25
+SI-D3 Anti-Spoof Vision,0.25
+SI-D4 Privacy Guards,0
+SI-D5 Trust-Boundary UX,0.25

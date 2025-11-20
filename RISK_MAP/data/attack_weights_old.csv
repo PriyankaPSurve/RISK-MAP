@@ -1,0 +1,40 @@
+Attack Vector,Likelihood,Impact,Weight
+Firmware reflashing,0.6,1.0,0.7499999999999999
+Sensor-bias (magnet/IR),0.8,0.6,0.6
+Power-rail surges,0.4,0.8,0.4000000000000001
+Field-level tampering,0.6,0.6,0.44999999999999996
+Acoustic / EM side-channel,0.4,0.4,0.20000000000000004
+Active optical LiDAR spoof,0.6,0.8,0.6
+Camera/Depth blinding,0.8,0.8,0.8000000000000002
+Ultrasound / EMI IMU drift,0.6,0.8,0.6
+Physical adversarial patches,0.6,0.6,0.44999999999999996
+Sensor-driven privacy leak,0.6,0.6,0.44999999999999996
+Timing-channel jitter,0.4,0.4,0.20000000000000004
+Memory-safety overflow,0.8,1.0,1.0
+Race / TOCTOU on buffers,0.6,0.8,0.6
+Estimator-bias tampering,0.6,0.8,0.6
+Topic spoof / GUID hijack,0.8,0.8,0.8000000000000002
+Replay / stale frame,0.8,0.6,0.6
+Plain-text sniff / exfil,0.8,0.6,0.6
+Discovery abuse / DoS,0.8,0.6,0.6
+Adv. examples (vision/RL),0.6,0.8,0.6
+Sequential perturbations,0.6,0.8,0.6
+Slow fuse / concept drift,0.6,0.8,0.6
+Reward hacking / spec gaming,0.4,0.8,0.4000000000000001
+Model poisoning / FL backdoor,0.4,1.0,0.5
+Physical backdoor trigger,0.4,1.0,0.5
+FSM logic bombs,0.6,1.0,0.7499999999999999
+Param-gain tampering,0.6,0.8,0.6
+Planner cost manipulation,0.6,0.8,0.6
+Malicious OTA update,0.6,1.0,0.7499999999999999
+Trojaned pretrained model,0.6,0.8,0.6
+Script / FSM corruption,0.6,0.8,0.6
+Unauth. APIs,0.8,0.8,0.8000000000000002
+Unsigned OTA / CI chain,0.6,1.0,0.7499999999999999
+Twin overload / sim gap,0.4,0.6,0.3
+Runtime param tamper,0.8,0.8,0.8000000000000002
+Ultrasound/laser cmd,0.6,0.6,0.44999999999999996
+Hidden / synthetic audio,0.6,0.6,0.44999999999999996
+Visual spoof / adv. patch,0.8,0.6,0.6
+Privacy leak takeover,0.6,0.6,0.44999999999999996
+Social eng. trust abuse,0.8,0.6,0.6
